@@ -1,2 +1,2 @@
 Mind Mapping
-this repositories save my learing mind mappinp
+this repositories save my learning mind mapping
