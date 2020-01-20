@@ -1,2 +1,1 @@
-Mind Mapping
-this repositories save my learning mind mapping
+这是我个人学习总结的思维导图，分享出来，希望能对大家有所帮助。
